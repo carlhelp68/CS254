@@ -1,0 +1,6 @@
+PS08-01
+
+Score: 1/4
+
+Comments: You have some good ideas here, but for a mapping reduction, you need to output something of the form of the language that you're mapping to (here a triple with a TM and 2 strings). It looks like you might be going in the opposite direction, and creating a TM that accepts or rejects rather than a function. Additionally, if we assume we have a decider for XOR, we can show undecidability, but not unrecognizability.
+

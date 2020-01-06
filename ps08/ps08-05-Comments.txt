@@ -1,0 +1,5 @@
+PS08-05
+
+Score: 4/4
+
+Comments: Well done. However, there are a number of small mathematical errors here as well (for example, you indicated that 2^{f(n)} < 2^{c*f(n)}, which is not true if c < 1) so be sure to proofread your solutions before submitting.

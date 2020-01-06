@@ -1,0 +1,11 @@
+PS07-04
+
+Score: 6/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 3/4
+-- Validity: 3/4
+-- Fluency: 3/4
+
+Comments: You are on the right track. However, you need to provide more justification that your constructions are correct and prove your claim; also, including a final conclusion about UNUSED_TM would have been clearer.
+Furthermore, note that you assume that USED_TM has a recognizer in your proof that it is recognizable.
+Finally, you do not explain what you think your results mean with respect to whether we can build a compiler that is guaranteed get rid of all code that would never be used when processing any input.

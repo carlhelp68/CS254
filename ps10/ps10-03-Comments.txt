@@ -1,0 +1,11 @@
+PS10-03
+
+Score: 3/4
+
+Comments: Grading done by part.
+
+Part A: Well done.
+
+Part B: Your approach here is correct, but a bit more detail would have been better in this case.
+
+Part C: Strictly speaking, you have shown through a mapping reduction that =/=SAT is NP-hard. To show that =/=SAT is NP-complete, you should also show that =/=SAT is in NP.

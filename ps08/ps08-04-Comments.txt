@@ -1,0 +1,5 @@
+PS08-04
+
+Score: 2/4
+
+Comments: You have the right fundamental idea here. However, it would be much clearer if you provided more detail in how your TM actually simulates the DFA.

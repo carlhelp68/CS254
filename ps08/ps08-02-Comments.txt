@@ -1,0 +1,10 @@
+PS08-02
+
+Score: 7/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 4/4
+-- Validity: 3/4
+-- Fluency: 4/4
+
+Comments: Well done. However, note that while L1 and L2 can both be decided in polynomial time, they might not have the same runtime.
+Further, in the Concatenation section, note that because the number of ways to split a string w into a prefix in suffix is proportional to the length of the input, your runtime analysis for that section is incorrect.

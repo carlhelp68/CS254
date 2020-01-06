@@ -1,0 +1,5 @@
+PS07-05
+
+Score: 3/4
+
+Comments: Well done. However, in part B, you should include a bit more detail on what Rice's theorem is and how it helps prove the claim at hand.

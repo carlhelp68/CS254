@@ -1,0 +1,10 @@
+PS09-05
+
+Score: 6/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 4/4
+-- Validity: 3/4
+-- Fluency: 3/4
+
+Comments: You are on the right track here. However, note that there might not be a TM that decides partition (unless you prove that one exists). Further, note that Partition has elements of the form <S>, where S is a set of binary integers, and SubsetSum has elements of the form <S, t>; therefore, your function is outputting the wrong type of object.
+Finally, you should show that your mapping function is computable in polynomial time.

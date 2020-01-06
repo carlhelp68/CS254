@@ -1,0 +1,5 @@
+PS07-01
+
+Score: 2/4
+
+Comments: You are on the right track. However, some of this proof is unclear--for example, what is the DFA D?

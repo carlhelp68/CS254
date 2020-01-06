@@ -1,0 +1,6 @@
+PS10-04
+
+Score: 1/4
+
+Comments:
+You're on the right track but there are a few points I don't understand. To show in NP, we need to do more than non-deterministically choose letters (do you mean words?) - we also need to make sure that they fit in a way that the across and down words are consistent. For your reduction, what is the alphabet Sigma? If it has more than one character, the size of the language L must be exponential. Your proof of correctness needs more detail to understand, and you additionally need to argue this is polynomial time.

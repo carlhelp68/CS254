@@ -1,0 +1,5 @@
+PS10-05
+
+Score: 2/4
+
+Comments: You have a good start here, but this ends abruptly. Note also that f(w) must be deterministic (not non-deterministic).

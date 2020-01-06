@@ -1,0 +1,5 @@
+PS09-03
+
+Score: 3/4
+
+Comments: You have a good idea here. However, you actually enumerate an exponential number of sets of nodes relative to the size of the input graph.

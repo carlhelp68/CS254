@@ -1,0 +1,7 @@
+PS07-02
+
+Score: 4/4
+
+Comments: Overall this is well done. However, you should include more justification that your constructions are correct.
+Also, in the first part, you have built a normal TM, not an enumerator.
+In general, we do not use the terminology  "co-L is r.e."; instead we use "L is co-r.e.".

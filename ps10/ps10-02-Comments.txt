@@ -1,0 +1,10 @@
+PS10-02
+
+Score: 4.5/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 2/4
+-- Validity: 2/4
+-- Fluency: 3/4
+
+Comments:
+You're right that to show NP-complete, you need to show in NP and that IndSet ≤_p Book-shelf! Because you're missing the definition of book-shelf, it's a little hard to interpret the rest of your response. For in NP, why are we non-deterministically choosing books rather than tags, and what are edges between books? For the reduction, you need to give a function f that takes as input a <G,k> pair and outputs something of the form for book-shelf. You should never run a machine for an NP-hard language in a polynomial time reduction because we don't believe that can be done quickly enough.
