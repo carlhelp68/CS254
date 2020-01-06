@@ -1,0 +1,5 @@
+PS02-04
+
+Score: 2/4
+
+Comments: Note that B is a language which has characters which are made up of three parts, and you made a machine for a language which has strings of length three.

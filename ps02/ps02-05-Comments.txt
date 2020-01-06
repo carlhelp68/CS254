@@ -1,0 +1,15 @@
+PS02-05
+
+Score: 5/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 4/4
+-- Validity: 2/4
+-- Fluency: 2/4
+
+Comments: Good work! I'll go through your answer part by part.
+
+Part A: This is close, but B is a language, so B cannot be epsilon. Because A is all possible strings formed of characters from Σ, then so long as B is not the empty set, then A/B is Σ*. If on the other hand B is the empty set, then A/B is also the empty set. This makes sense, because if there are no strings in B, then no strings in A could possibly contain a string in B.
+
+Part B: In the first part, you are correct that (A/B)B = A, but note that (A/B)= x+ y*, not x+, because 'y' is in B. Similarly in the second part, (A/B)B is not A, but A/B = ∅, not x+.
+
+Part C: Note that w and x are placeholders for strings, so A cannot be equal to wx, B cannot be equal to w, and A/B cannot be equal to w. Note also that you use several variables (Q_a, for example) that you do not define. Finally, note that the set of states in the DFA for A/B is exactly the states that are in the DFA for A, since Q does not contain information about the final states of it's DFA.

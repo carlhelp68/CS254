@@ -1,0 +1,14 @@
+PS01-06
+
+Score: 4/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 2/4
+-- Validity: 2/4
+-- Fluency: 2/4
+
+Comments: This was slightly difficult to read, so be sure to use formatting, bolding,
+and other notation methods to more clearly separate your cases. Also, in general,
+when using both addition and concatenation in the same proof, it is best to be
+very clear about which operation is which to prevent confusion. You also did not
+really prove you inductive case, so be sure to look at the solutions to get a better idea of what this
+type of proof entails.

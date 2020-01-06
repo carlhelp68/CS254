@@ -1,0 +1,6 @@
+PS02-01
+
+Score: 3.5/4
+
+Comments:
+Good work! Note that it would be helpful to explain why the two properties you gave for base-3 numbers that are divisible by 6 hold (that way we could be sure that these will hold for all and only base-3 numbers that are divisible by 6).

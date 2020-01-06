@@ -1,0 +1,6 @@
+PS02-03
+
+Score: 3/4
+
+Comments:
+Good work formulating your structural induction! For the inductive step, can you be a little more precise about what the stage is (one state or more than one? what transition(s)?) and what you mean by accepting (since the machine itself is not accepting at that point). Please also state at the beginning your proof technique (structural induction on x)/
