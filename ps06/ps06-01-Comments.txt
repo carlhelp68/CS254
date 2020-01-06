@@ -1,0 +1,11 @@
+PS06-01
+
+Score: 5/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 3/4
+-- Validity: 2/4
+-- Fluency: 3/4
+
+Comments: You have the right idea, but there are a few errors here. Primarily, you did not include enough information to fully define your constructed machines.
+
+In the first part of your solution, note that when you push the input onto the left stack, you end up with the input string in reverse, so this 2-PDA is not an accurate simulation of a TM.

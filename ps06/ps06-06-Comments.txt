@@ -1,0 +1,5 @@
+PS06-06
+
+Score: 3/4
+
+Comments: Well done, although a bit more of an explanation of how and why your machines solve this problem would have been better.

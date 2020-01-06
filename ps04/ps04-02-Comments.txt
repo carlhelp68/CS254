@@ -1,0 +1,13 @@
+PS04-02
+
+Score: 3/4
+
+Comments: Good job. I will go through your answer part by part.
+
+Part A: Graded for completeness only
+
+Part B: Graded for completeness only
+
+Part C: You are close here, however, you did not discuss the case where |vxy| contains only a 3.
+
+Part D: Graded for completeness only

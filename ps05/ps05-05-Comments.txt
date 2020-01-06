@@ -1,0 +1,9 @@
+PS05-05
+
+Score: 4.5/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 4/4
+-- Validity: 1/4
+-- Fluency: 3/4
+
+Comments: You provide a good intuition as to why an RS-TM is not as powerful as a TM, however, you do not make a mathematically rigorous argument that such must be the case.

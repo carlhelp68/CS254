@@ -1,0 +1,5 @@
+PS03-05
+
+Score: 2/4
+
+Comments: You're close. However, when proving that some string w in L cannot be pumped, you should show that there is no way to split w into xyz that follows the conditions of the lemma. Instead, you showed that there is a single split that fails to meet those conditions.

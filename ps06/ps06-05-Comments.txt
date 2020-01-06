@@ -1,0 +1,5 @@
+PS06-05
+
+Score: 2/4
+
+Comments: You have a good idea here. However, note that max(number states in DFA A, number of states in DFA B) is not a large enough number to guarantee that you have caught every string that might not be accepted or rejected by both machines.

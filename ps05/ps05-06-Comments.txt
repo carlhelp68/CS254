@@ -1,0 +1,5 @@
+PS05-06
+
+Score: 1/4
+
+Comments: You have some good big ideas here, but the argument for why standard TMs are at least as powerful as RLS-TMs needs to be more fleshed out. For instance, note that your constructed TM based on a variant TM actually seems to end on a different state than the variant (e.g. the TM ends on q0, while the variant ends on q1). You'll need additional states in your variant TM to capture the equivalence.

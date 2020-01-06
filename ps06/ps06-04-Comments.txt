@@ -1,0 +1,5 @@
+PS06-04
+
+Score: 2/4
+
+Comments: Overall this is well done. However, it is unclear how you calculate the pumping length of the CFG.

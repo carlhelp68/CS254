@@ -1,0 +1,5 @@
+PS03-01
+
+Score: 3/4
+
+Comments: This is close, but you don't keep track of the ending states closely enough to ensure that a string will end with a character at the end of a string in B.

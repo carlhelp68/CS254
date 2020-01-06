@@ -1,0 +1,15 @@
+PS03-07
+
+Score: 4.5/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 3/4
+-- Validity: 1/4
+-- Fluency: 4/4
+
+Comments: Good work. I will go through this part by part. Several formatting issues and typos (e.g. not clearly splitting different sections apart), along with not stating what you were proving at the top in parts A and B, made this a little difficult to read.
+
+A: Because F behaves like a regular language under the pumping lemma (as you are asked to show in Part B), you cannot prove that F is irregular using the pumping lemma. Here, you have not considered the case where x = epsilon and y = 'a'.
+
+B: Because you are showing that F does not violate the pumping lemma, you need to show that all strings w in F can be pumped and remain in F.
+
+C: Exactly correct.

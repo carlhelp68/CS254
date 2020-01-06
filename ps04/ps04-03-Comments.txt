@@ -1,0 +1,9 @@
+PS04-03
+
+Score: 4.5/8
+(Score = Validity + 1/2(Readability + Fluency))
+-- Readability: 3/4
+-- Validity: 2/4
+-- Fluency: 2/4
+
+Comments: Overall you have the right idea here, but your proofs are incomplete as they do not completely construct the CFGs that accept the various new languages.

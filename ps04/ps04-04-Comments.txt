@@ -1,0 +1,9 @@
+PS04-04
+
+Score: 2/4
+
+Comments: You have the right idea, but there are a few errors here:
+
+In your proof that L acts as a CFL under the pumping lemma, you need to show that for all strings s in L, there is a way to pump s and keep it in L.
+
+Therefore, you showed that L does not act regular under the pumping lemma, as you proved that it isn't context-free using the pumping lemma.

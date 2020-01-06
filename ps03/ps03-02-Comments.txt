@@ -1,0 +1,5 @@
+PS03-02
+
+Score: 0/4
+
+Comments: You seem to have misunderstood the question--you are not trying to show that B is regular, but rather you should show that if A and B are regular then 'A prefix B' is also regular.

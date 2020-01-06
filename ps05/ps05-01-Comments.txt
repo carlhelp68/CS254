@@ -1,0 +1,5 @@
+PS05-01
+
+Score: 2/4
+
+Comments: You have some good ideas here, but I don't quite understand your argument for why the PDA is correct. You're right that it reads through lots of different branches, but why does this machine accept all and only the strings in scramble(L)? What are the accept states of this machine? In (b), the intersection of the two languages you mention is {epsilon, 123}, which is a CFL (note that regular languages are closed under intersection, so it is in fact regular), and it would be helpful to explain how showing something about the intersection of two regular languages relates to the scramble of a language.
